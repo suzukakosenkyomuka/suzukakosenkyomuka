@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 経歴
+2005年9月11日：生まれる←生まれてくんな
 <!--
 **suzukakosenkyomuka/suzukakosenkyomuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
