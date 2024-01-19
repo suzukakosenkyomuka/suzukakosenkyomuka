@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### 経歴
-2005年9月11日：生まれる←生まれてくんな
-↑
-誕生日プレゼントが欲しいわけでは無い"https://Amazon.com"
+2005年9月11日：生まれる←生まれてくんな<br>
+↑<br>
+誕生日プレゼントが欲しいわけでは無い"https://Amazon.com"<br>
 <!--
 **suzukakosenkyomuka/suzukakosenkyomuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
