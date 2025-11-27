@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ### 経歴
-2005年9月11日：生まれる←生まれてくんな<br>
-↑<br>
-誕生日プレゼントが欲しいわけでは無い"https://Amazon.com"<br>
+2005年9月:生まれる←生まれてくんな<br>
+2021年4月:鈴鹿高専入学<br>
+2024年2月:鈴鹿高専留年<br>
+2025年9月:鈴鹿高専留年2<br>
 <!--
 **suzukakosenkyomuka/suzukakosenkyomuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
